@@ -1,0 +1,6 @@
+streamlit>=1.40
+tensorflow>=2.20
+keras>=3.13
+pillow
+numpy
+pandas
